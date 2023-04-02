@@ -1,0 +1,7 @@
+2023-04-02 23:09:58.225078 - Initialized conversion of CBT279
+2023-04-02 23:09:58.361519 - Received CBT.V504.FILE279.PDS from FILE279.XMI 
+2023-04-02 23:09:58.364352 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE279.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:09:58.365814 - Found @DOC.txt (text/plain) in CBT.V504.FILE279.PDS, moved to PDS/@DOC
+2023-04-02 23:09:58.367533 - Found @FILE279.txt (text/plain) in CBT.V504.FILE279.PDS, moved to PDS/@FILE279
+2023-04-02 23:09:58.368869 - Found SLSS30.txt (text/plain) in CBT.V504.FILE279.PDS, moved to PDS/SLSS30
+2023-04-02 23:09:58.370159 - Found SLSS40.txt (text/plain) in CBT.V504.FILE279.PDS, moved to PDS/SLSS40
